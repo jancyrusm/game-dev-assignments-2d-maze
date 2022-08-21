@@ -1,9 +1,9 @@
-#2D Maze Game
+# 2D Maze Game
 
-# About
+## About
 2D Maze in Unity Assignment in CET3
 
-# Screenshots
+## Screenshots
 
 ![1](/1.png)
 ![2](/2.png)
